@@ -11,6 +11,7 @@ Stellar offers multiple approaches to wallet integration, each suited for differ
 | [Freighter](./freighter.md) | Quick integration, SDF's official wallet | Browser extension or Freighter Mobile app | Low |
 | [Stellar Wallets Kit](./stellar-wallets-kit.md) | Multi-wallet support | Users choose their preferred wallet | Medium |
 | [Smart Account Kit](./smart-account-kit.md) | Modern dapps, best UX | Passkey-based, no extension needed | Medium |
+| [Cavos](./cavos.md) | Embedded wallets | OAuth or email login, no extension needed | Medium |
 
 ## Quick Decision Guide
 
